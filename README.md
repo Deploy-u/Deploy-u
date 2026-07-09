@@ -24,7 +24,7 @@ Hey there! 👋 I'm an engineering student passionate about **Data Analytics, Bu
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_satyam21__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](%28https://www.linkedin.com/in/satyam-kumar-2b953b330%29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:minebuddy483@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_satyam21__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)]([%28https://www.linkedin.com/in/satyam-kumar-2b953b330%29](https://www.linkedin.com/in/satyam-kumar-2b953b330?utm_source=share_via&utm_content=profile&utm_medium=member_android)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:satyamkum686@gmail.com)
 
 # 💻 Analytics & Tech Stack:
 
