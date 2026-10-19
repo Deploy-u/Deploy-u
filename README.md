@@ -1,68 +1,54 @@
-<!-- Typing animation headline -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Satyam+Kumar!;Aspiring+Data+Analyst+%F0%9F%93%8A;Business+Analytics+Enthusiast+%F0%9F%93%88;Turning+Data+Into+Insights+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
 # 💫 About Me:
 
-Hey there! 👋 I'm an engineering student passionate about **Data Analytics, Business Intelligence, and Data-Driven Decision Making**.
+Hey there! 👋 I'm Satyam Kumar, a B.Tech Mechanical Engineering student at PDPM IIITDM Jabalpur (Aug 2024 - May 2028)[cite: 1]. I am passionate about mechanical design, fluid dynamics, and mechatronics.
 
-📊 I enjoy transforming raw data into meaningful insights and building dashboards that help solve real-world business problems.
+⚙️ I enjoy bridging the gap between core mechanical systems and modern technology through simulation, hardware integration, and data analysis.
 
-💡 Currently exploring:
+💡 Currently exploring & working on:
 
-* Data Analytics & Business Intelligence
-* SQL for Data Analysis
-* Power BI & Dashboarding
-* Python for Data Science
-* Business Strategy & Analytics
+* CFD, Aerodynamics & Turbulent Flow Modelling[cite: 1]
+* Kinematics, Multibody Dynamics & Mechanism Design[cite: 1]
+* Embedded Systems, Autonomous Navigation & Mechatronics[cite: 1]
+* Data Analysis with Python (OpenCV, Pandas, NumPy) and MySQL[cite: 1]
 
-🚀 Always learning, analyzing, and building projects that turn data into impactful decisions.
-
-🔗 **Analyze | Visualize | Optimize | Grow**
+🚀 Always learning, analyzing, and building projects that solve real-world engineering problems.
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_satyam21__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)]([%28https://www.linkedin.com/in/satyam-kumar-2b953b330%29](https://www.linkedin.com/in/satyam-kumar-2b953b330?utm_source=share_via&utm_content=profile&utm_medium=member_android)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:satyamkum686@gmail.com)
+[](https://www.google.com/search?q=%5Bhttps%3A%2F%2Fwww.linkedin.com%2Fin%2Fsatyam-kumar-2b953b330%5D%28https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsatyam-kumar-2b953b330%29) [](https://www.google.com/search?q=https://github.com/Deploy-u) [](https://www.google.com/search?q=mailto%3Asatyamkum686%40gmail.com)[cite: 1]
 
-# 💻 Analytics & Tech Stack:
+# 💻 Engineering & Tech Stack:
 
-### 📊 Data Analytics & BI
+### ⚙️ Simulation & CAD
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=plastic\&logo=postgresql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=plastic\&logo=microsoft-excel\&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=plastic\&logo=powerbi\&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=plastic\&logo=microsoft-excel\&logoColor=white)
+* COMSOL Multiphysics | MSC Adams[cite: 1]
 
-### 🐍 Data Science & Programming
+### 🤖 Mechatronics & Hardware
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic\&logo=Matplotlib\&logoColor=black)
+* GSM Modules | Sensors & Actuators | Motion Control[cite: 1]
 
-### 💻 Programming Languages
+### 🐍 Programming & Data
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic\&logo=c%2B%2B\&logoColor=white)
 
-### ⚙️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=plastic\&logo=Jupyter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic\&logo=visual-studio-code\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic\&logo=notion\&logoColor=white)
 
-## 📈 Current Focus
 
-* Building Business Intelligence dashboards using Power BI
-* Solving business problems with SQL and Python
-* Developing analytical thinking and business strategy skills
-* Exploring advanced data visualization techniques
 
-### ✍️ Data Quote
+[cite: 1]
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+## 🛠️ Experience & Projects
+
+* **Research Intern @ IIT Delhi:** Developed a compact desktop injection moulding system for rapid manufacturing of drone propeller blades[cite: 1].
+* **Engineering Intern @ 506 Army Base Workshop:** Created a digital disassembly and training system for the IFG recoil mechanism using 3D modelling and reverse engineering[cite: 1].
+* **CFD Research:** Conducted aerodynamic analysis of a leading-edge tubercle airfoil using COMSOL Multiphysics[cite: 1].
+* **Mechatronics:** Built an autonomous Fire Detection, Prevention & Cleaning Bot using ESP32, NodeMCU, and various sensors[cite: 1].
+* **Machine Design:** Designed and simulated an Automated Roti-Making System using SolidWorks and MSC Adams[cite: 1].
+
+## 🏆 Achievements & Leadership
+
+* **2nd Prize:** Speed Quant, Techkriti '26 (IIT Kanpur)[cite: 1].
+* **Data Analytics Lead:** Business & Management Club, IIITDM Jabalpur[cite: 1].
+* **Finalist:** National Business Case Study Competition, IIT Roorkee E-Summit 2026[cite: 1].
+* **Winner:** Lawn Tennis Open Tournament 2026 (Men's Doubles)[cite: 1].
+
+### ✍️ Quote
